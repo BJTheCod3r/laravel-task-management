@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##About This Project
+## About This Project
 This is a simple Laravel application that demonstrates task management in a way. It can be sorted via drag and drop and it follows project-tasks relationship. To deploy, change the necessary parameters in the _.env_ file.
 
 A _task.sql_ file is included for you to manually import the database or you could just run `php artisan migrate`. Whatever works for you. Of course, this could have been done way better but the aim is to touch on various aspects of Laravel.
